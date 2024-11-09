@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0007-reverse-integer) |
+| [2630-alternating-digit-sum](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2630-alternating-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
