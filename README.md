@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
