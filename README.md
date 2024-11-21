@@ -16,6 +16,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0507-perfect-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2630-alternating-digit-sum) |
 ## Divide and Conquer
 |  |
