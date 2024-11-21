@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0053-maximum-subarray) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,5 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
