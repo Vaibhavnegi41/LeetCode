@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0507-perfect-number) |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
