@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0507-perfect-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0125-valid-palindrome) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
