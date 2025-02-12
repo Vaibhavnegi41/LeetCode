@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
