@@ -28,6 +28,7 @@
 | [0169-majority-element](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0383-ransom-note) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
 ## Math
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0383-ransom-note) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -99,6 +101,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0383-ransom-note) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
