@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
@@ -31,6 +32,7 @@
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -63,6 +65,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
@@ -73,6 +76,7 @@
 | [0088-merge-sorted-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0189-rotate-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -100,6 +104,7 @@
 | [0169-majority-element](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
