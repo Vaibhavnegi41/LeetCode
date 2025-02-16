@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0792-binary-search) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
@@ -41,6 +42,7 @@
 | [0189-rotate-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0507-perfect-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2630-alternating-digit-sum) |
