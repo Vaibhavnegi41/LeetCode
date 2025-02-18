@@ -25,6 +25,7 @@
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -131,6 +133,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
