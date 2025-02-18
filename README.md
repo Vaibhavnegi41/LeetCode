@@ -85,6 +85,7 @@
 | [0088-merge-sorted-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
