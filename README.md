@@ -89,6 +89,7 @@
 | [0455-assign-cookies](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0455-assign-cookies) |
 | [0953-reverse-only-letters](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2128-reverse-prefix-of-word](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -102,12 +103,14 @@
 | [0953-reverse-only-letters](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
