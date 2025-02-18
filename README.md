@@ -38,6 +38,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -95,6 +96,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
@@ -127,6 +129,7 @@
 | [0383-ransom-note](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
