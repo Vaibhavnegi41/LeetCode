@@ -23,6 +23,7 @@
 | [1580-shuffle-the-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1656-count-good-triplets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
