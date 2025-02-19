@@ -20,6 +20,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
