@@ -19,6 +19,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -127,6 +128,7 @@
 | [0455-assign-cookies](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
