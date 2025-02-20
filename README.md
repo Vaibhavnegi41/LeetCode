@@ -64,6 +64,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2083-three-divisors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -189,4 +190,9 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1656-count-good-triplets) |
+| [2083-three-divisors](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
