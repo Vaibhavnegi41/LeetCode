@@ -61,6 +61,7 @@
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0507-perfect-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
