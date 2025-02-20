@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -93,6 +94,7 @@
 | [0088-merge-sorted-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0455-assign-cookies) |
 | [0953-reverse-only-letters](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0953-reverse-only-letters) |
