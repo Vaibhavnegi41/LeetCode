@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -44,6 +45,7 @@
 | [0268-missing-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1635-number-of-good-pairs) |
