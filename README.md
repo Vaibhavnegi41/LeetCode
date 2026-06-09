@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1408-string-matching-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -116,6 +117,7 @@
 | [0383-ransom-note](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0953-reverse-only-letters](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1408-string-matching-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -204,4 +206,8 @@
 | [0175-combine-two-tables](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Vaibhavnegi41/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
