@@ -30,6 +30,7 @@
 | [1635-number-of-good-pairs](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1656-count-good-triplets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2634-minimum-common-value) |
@@ -122,6 +123,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vaibhavnegi41/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -211,4 +213,5 @@
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Vaibhavnegi41/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Vaibhavnegi41/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
